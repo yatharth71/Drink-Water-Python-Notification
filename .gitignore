@@ -1,5 +1,2 @@
-#dependercies
-./env
-
-# for editor
-./.vscode
+# Ignoring .vscode folder
+D:\coding playground\Drink Water Python Notification\.vscode
