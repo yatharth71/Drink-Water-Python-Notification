@@ -1,0 +1,5 @@
+#dependercies
+./env
+
+# for editor
+./.vscode
